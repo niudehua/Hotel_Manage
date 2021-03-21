@@ -94,8 +94,8 @@
                                 <li>当前版本: v1.0</li>
                                 <li><b>关注官网或github随时下载最新版</b></li>
                                 <li>
-                                    <a href="http://www.qadmin.net/" target="_blank" class="layui-btn layui-btn-normal">进入官网</a>
-                                    <a href="https://github.com/aa24615/qadmin" target="_blank" class="layui-btn layui-btn-normal">github</a>
+                                    <a href="http://www.niudehua.cn/" target="_blank" class="layui-btn layui-btn-normal">进入官网</a>
+                                    <a href="https://github.com/niudehua/hotel_manage" target="_blank" class="layui-btn layui-btn-normal">github</a>
                                 </li>
                             </ul>
                         </div>
